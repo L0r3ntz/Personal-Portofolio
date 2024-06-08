@@ -4,7 +4,7 @@
             <img :src="img" alt="profil image"
                 class="w-52 max-sm:w-48 h-52 max-sm:h-48 rounded-full bg-title border border-text" />
         </figure>
-        <h1 class="font-bold sm:text-4xl max-sm:text-3xl sm:mb-1 max-sm:mb-2">Hi, I'm <span class="text-title">Muhammad Yusran</span></h1>
+        <h1 class="font-bold max-sm:text-center sm:text-4xl max-sm:text-3xl sm:mb-1 max-sm:mb-2">Hi, I'm <span class="text-title">Muhammad Yusran</span></h1>
         <h2 class="font-bold text-2xl mb-3">Frontend Developer</h2>
         <p class="text-justify max-sm:text-center leading-relaxed max-sm:text-sm">"Menjadi seorang frontend developer bukan hanya berfokus kepada tampilan apa yang akan dibangun, akan tetapi juga harus memikirkan kepuasan dan ketertarikan dari user yang melihat hasil dari yang dibangun".</p>
         <ul class="flex items-center gap-x-5 mt-6">
